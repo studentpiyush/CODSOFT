@@ -2,5 +2,4 @@
 Projects of my first internship are shown here.
 <br>
 Autor - Piyush Sharma
-<br>
 Father's name - Sudhir Sharma
